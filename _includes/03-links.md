@@ -1,1 +1,1 @@
-https://github.com/Vais786/markdown-portfolio
+[GitHub](http://github.com)
